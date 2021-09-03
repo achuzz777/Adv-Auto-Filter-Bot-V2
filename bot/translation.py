@@ -6,10 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😁
-
-BOTS FOR SALE 🤖.... VERY VERY CHEEP RATE 😲
-
-For More Details Click Here 👇..
+UpdateS🔥
 @AbhinaveS 
 </i>"""    
     
@@ -43,12 +40,12 @@ For More Details Click Here 👇..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@AbhinaveS
+@AbhinaveS 
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Bot For Sale</b> : <b><i><a href="https://t.me/AbhinaveS">Click Here</a></i></b>
+<b>➥ MASTER </b> : <b><i><a href="https://t.me/AbhinaveS">ABHINAVE S</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
